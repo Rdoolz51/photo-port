@@ -20,7 +20,7 @@ useEffect(() => {
             <nav>
                 <ul className='flex-row'>
                     <li className='mx-2'>
-                        <a data-testid="aboutu" href="#about">
+                        <a data-testid="about" href="#about">
                             About Me
                         </a>
                     </li>
