@@ -33,6 +33,7 @@ function App () {
         currentCategory={currentCategory}
       />
       <main>
+        <ContactForm />
         <Gallery currentCategory={currentCategory} />
         <About />
       </main>
